@@ -1,0 +1,118 @@
+Smart-B® para Windows®
+
+
+Ensayo  Codigo  Tipo  T.D.R  T.A.E.  I.I.E.
+   1      Y      N       0      30      431
+   2      X      B     121      30      431
+   3      A      D     120      30      430
+   4      X      B     150      30      431
+   5      A      D       0      30      430
+   6      L      N     120      30      430
+   7      A      D       0      30      431
+   8      L      N       0      30      430
+   9      A      D       0      30      430
+   10     X      B     421      30      431
+   11     Q      N       0      30      431
+   12     X      B       0      30      430
+   13     A      D       0      30      432
+   14     K      N       0      30      430
+   15     A      D       0      30      430
+   16     Z      N     151      30      431
+   17     A      D       0      30      430
+   18     Y      N     150      30      430
+   19     A      D       0      31      431
+   20     X      B     120      30      430
+   21     A      D       0      30      430
+   22     K      N     210      30      430
+   23     A      D       0      30      430
+   24     X      B     180      30      432
+   25     A      D       0      30      432
+   26     S      N     211      30      431
+   27     T      N     421      30      431
+   28     D      N      90      30      430
+   29     A      D       0      30      430
+   30     X      B       0      30      431
+   31     H      N       0      30      430
+   32     N      N       0      30      430
+   33     L      N       0      30      431
+   34     J      N       0      30      430
+   35     A      D       0      30      431
+   36     X      B       0      30      431
+   37     J      N       0      30      430
+   38     N      N       0      30      430
+   39     A      D       0      30      431
+   40     H      N       0      30      430
+   41     A      D       0      30      430
+   42     B      N       0      30      431
+   43     A      D       0      30      430
+   44     X      B       0      30      430
+   45     W      N       0      30      431
+   46     N      N       0      30      431
+   47     U      N       0      30      431
+   48     Z      N       0      30      431
+   49     R      N       0      30      430
+   50     F      N       0      30      430
+   51     D      N       0      30      431
+   52     Q      N       0      30      430
+   53     A      D       0      30      430
+   54     Y      N       0      30      431
+   55     B      N       0      30      430
+   56     X      B       0      30      431
+   57     A      D       0      30      431
+   58     X      B       0      30      430
+   59     L      N       0      30      430
+   60     X      B       0      30      431
+   61     C      N       0      30      430
+   62     X      B       0      30      430
+   63     A      D       0      30      431
+   64     X      B       0      30      430
+   65     A      D       0      30      430
+   66     X      B       0      30      430
+   67     C      N       0      30      430
+   68     T      N       0      30      431
+   69     A      D       0      30      430
+   70     X      B       0      30      430
+   71     A      D       0      30      431
+   72     X      B       0      30      430
+   73     Z      N       0      30      430
+   74     M      N       0      30      431
+   75     A      D       0      31      431
+   76     X      B       0      30      430
+   77     A      D       0      30      431
+   78     X      B       0      30      430
+   79     A      D       0      30      430
+   80     X      B       0      30      431
+   81     A      D       0      30      430
+   82     X      B       0      30      430
+   83     A      D       0      30      431
+   84     X      B       0      30      430
+   85     A      D       0      30      431
+   86     X      B       0      30      431
+   87     A      D       0      30      430
+   88     X      B       0      30      430
+   89     A      D       0      30      431
+   90     X      B       0      30      430
+   91     A      D       0      30      430
+   92     X      B       0      30      431
+   93     A      D       0      30      430
+   94     X      B       0      30      430
+   95     A      D       0      30      431
+   96     X      B       0      30      430
+   97     A      D       0      30      430
+   98     X      B       0      30      431
+   99     A      D       0      30      430
+   100    X      B       0      30      430
+
+
+[Sumario de aciertos]
+Estímulo blanco=4
+
+[Sumario de errores de comisión]
+Click falso estímulo blanco (An)=5
+Click falso estímulo blanco (nX)=1
+Click estímulo neutro=2
+Clik de anticipación=1
+
+Total de errores de comisión:9
+
+Tiempo de respuesta promedio:217.750000
